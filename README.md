@@ -24,7 +24,13 @@ Vercel/Netlify – Ready for deployment
  Light Mode:
  ![App Screenshot](https://github.com/metu2834/Landing-page/blob/008a938430c5670c34de726da60278309e7acd71/Screenshot%202025-06-11%20154125.png)
 
+
+ 
  Mobile View:
+
+ 
+ 
+ 
  ![App ScreenShot](https://github.com/metu2834/Landing-page/blob/5f6cf594a98e38d8d62578c11218eddf037e202f/Screenshot%202025-06-11%20154156.png)
  
  
