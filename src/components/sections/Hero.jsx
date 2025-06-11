@@ -2,7 +2,7 @@ import { Button } from "../shared/Button";
 import { Container } from "../shared/Container";
 import { Paragraph } from "../shared/Paragraph";
 import { Numbers } from "./Numbers";
-import ModernAI from "../../assets/modernAI.jpg";
+import ModernAI from "/assets/modernAI.jpg";
 
 export const Hero = () => {
   return (

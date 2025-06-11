@@ -2,7 +2,7 @@ import { Info } from "../cards/Info";
 import { Container } from "../shared/Container";
 import { Paragraph } from "../shared/Paragraph";
 import { Title } from "../shared/Title";
-import Business from "../../assets/Business.jpg";
+import Business from "/assets/Business.jpg";
 
 export const AboutUs = () => {
   return (

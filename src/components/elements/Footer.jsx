@@ -1,5 +1,5 @@
 import { Container } from "../shared/Container";
-import logo from "../../assets/icon2.svg";
+import logo from "/assets/icon2.svg";
 import { navItems } from "./Navbar";
 import { NavItem } from "../shared/NavItem";
 
