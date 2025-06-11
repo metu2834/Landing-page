@@ -17,6 +17,10 @@ Framer Motion – Buttery-smooth animations
 React Icons – Scalable vector icons
 Vercel/Netlify – Ready for deployment
 
+🌐 Live Demo
+[View Live Demo](https://landing-page-xi-flax-29.vercel.app/)
+
+
 📸 Screenshots
  Dark Mode:
  ![App Screenshot](https://github.com/metu2834/Landing-page/blob/4561c8e500b547ec4fe5c5fd9f715d9ee7352282/Screenshot%202025-06-11%20153859.png)
